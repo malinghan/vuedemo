@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -lh 0*.md 1*.md)"
+    ]
+  }
+}

@@ -44,16 +44,16 @@
 
 | # | 文件 | 主题 | 状态 |
 |---|------|------|------|
-| 01 | `01_html5.md` | HTML5 · 语义化 / 表单 / 存储 | ☐ |
-| 02 | `02_css3.md` | CSS3 · 盒模型 / Flex / Grid / 动画 | ☐ |
-| 03 | `03_javascript.md` | JavaScript · 类型 / 函数 / 异步 / DOM | ☐ |
-| 04 | `04_toolchain.md` | 工具链 · npm / Vite / Git / ESLint | ☐ |
-| 05 | `05_vue_basics.md` | Vue 模板语法与指令 | ☐ |
-| 06 | `06_vue_reactivity.md` | Vue 响应式系统 | ☐ |
-| 07 | `07_vue_components.md` | Vue 组件化开发 | ☐ |
-| 08 | `08_vue_router.md` | Vue Router 路由 | ☐ |
-| 09 | `09_vue_pinia.md` | Pinia 状态管理 | ☐ |
-| 10 | `10_project.md` | 实战：Todo App | ☐ |
+| 01 | `01_html5.md` | HTML5 · 语义化 / 表单 / 存储 | ✅ |
+| 02 | `02_css3.md` | CSS3 · 盒模型 / Flex / Grid / 动画 | ✅ |
+| 03 | `03_javascript.md` | JavaScript · 类型 / 函数 / 异步 / DOM | ✅ |
+| 04 | `04_toolchain.md` | 工具链 · npm / Vite / Git / ESLint | ✅ |
+| 05 | `05_vue_basics.md` | Vue 模板语法与指令 | ✅ |
+| 06 | `06_vue_reactivity.md` | Vue 响应式系统 | ✅ |
+| 07 | `07_vue_components.md` | Vue 组件化开发 | ✅ |
+| 08 | `08_vue_router.md` | Vue Router 路由 | ✅ |
+| 09 | `09_vue_pinia.md` | Pinia 状态管理 | ✅ |
+| 10 | `10_project.md` | 实战：Todo App | ✅ |
 
 学完一个在 `☐` 改成 `✅`，追踪自己的进度。
 

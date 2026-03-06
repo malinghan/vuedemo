@@ -98,6 +98,7 @@ h1 { color: #42b883; }
 
 ```vue
 <script setup>
+import { ref } from 'vue'
 const name = ref('Tom')
 const age = ref(18)
 const user = ref({ name: 'Tom', city: 'Beijing' })
@@ -188,6 +189,7 @@ const fontSize = ref(16)
 
 ```vue
 <script setup>
+import { ref } from 'vue'
 const count = ref(0)
 
 function increment() {
@@ -267,6 +269,7 @@ v-show（条件显示）
 
 ```vue
 <script setup>
+import { ref } from 'vue'
 const items = ref(['苹果', '香蕉', '橙子'])
 const users = ref([
   { id: 1, name: 'Tom', age: 18 },
@@ -313,6 +316,7 @@ Vue 知道删了 B，精确复用 A 和 C
 
 ```vue
 <script setup>
+import { ref } from 'vue'
 const text = ref('')
 const checked = ref(false)
 const selected = ref('')
